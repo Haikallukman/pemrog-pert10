@@ -95,8 +95,8 @@ if __name__ == "__main__":
 [(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
 T
 Tambahkan Data
-NIM: 312410080
-Nama: MUKHLISH
+NIM: 312410142
+Nama: Haikal Lukman
 Nilai Tugas: 98
 Nilai UTS: 97
 Nilai UAS: 96
@@ -108,7 +108,7 @@ Daftar Nilai
 ==================================================================
 | NO |    NIM    |     NAMA      | TUGAS  | UTS  | UAS  | AKHIR  |
 ==================================================================
-| 1  | 312410080 | MUKHLISH      | 98.0   | 97.0 | 96.0 | 96.95  |
+| 1  | 312410142 | Haikal Lukman | 98.0   | 97.0 | 96.0 | 96.95  |
 ==================================================================
 
 [(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
@@ -117,7 +117,7 @@ Keluar dari program.
 ```
 ## flowchart
 
-![flowchart](flowchartpert10.jpg)
+![flowchart](flowchartpert10.png)
 
 ## Penjelasan 
 - Fungsi : Setiap bagian yang diawali dengan def adalah sebuah fungsi. Fungsi ini memiliki tugas khusus, seperti menampilkan menu, menambahkan data, mengubah data, dan sebagainya.
