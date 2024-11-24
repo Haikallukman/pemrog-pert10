@@ -116,7 +116,8 @@ K
 Keluar dari program.
 ```
 ## flowchart
-![flowchart](flowchart.jpg)
+
+![flowchart](flowchartpert10.jpg)
 
 ## Penjelasan 
 - Fungsi : Setiap bagian yang diawali dengan def adalah sebuah fungsi. Fungsi ini memiliki tugas khusus, seperti menampilkan menu, menambahkan data, mengubah data, dan sebagainya.
